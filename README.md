@@ -26,15 +26,15 @@
 
 
 
-### 📊 Estatísticas do GitHub  
-<p align="center">
-  ![Domingas GitHub stats](https://github-readme-stats.vercel.app/api?username=DomiOliveira&show_icons=true&theme=radical)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomiOliveira&layout=compact&theme=radical)
-</p>
+ 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DomiOliveira&show_icons=true&theme=radical" alt="Domingas GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomiOliveira&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+</p>
 ---
 
-### 🌎 Conecte-se comigo!  
+ 
 <div> 
   <a href="https://www.linkedin.com/in/domingas-oliveira-40922320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://github.com/DomiOliveira" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
