@@ -7,9 +7,9 @@
 
 
 
-💡 Cientista de Dados e Analista com experiência em **Big Data, Data Science e Analytics**.
+
 🎓 MBA em Data Science | Bacharela em Ciência e Tecnologia ! Mestra em Ciências Ambientais 
-📊 Experiência em análise estatística, machine learning e visualização de dados.  
+  
 
 ---### 🚀 Tecnologias & Ferramentas  
 <div style="display: inline_block"><br>
@@ -24,11 +24,7 @@
 
 ---
 
-### 📂 Projetos em Destaque  
-- [Projeto 1](link-do-repo1) → breve descrição do que fez  
-- [Projeto 2](link-do-repo2) → breve descrição do que fez  
-- [Projeto 3](link-do-repo3) → breve descrição do que fez  
----
+
 
 ### 📊 Estatísticas do GitHub  
 <p align="center">
