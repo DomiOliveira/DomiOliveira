@@ -10,7 +10,7 @@ Pesquisadora na interface entre **Ciência de Dados** e **Ciências Ambientais**
 qualidade do ar, fumaça de queimadas e dados de sensoriamento remoto na Amazônia.
 
 Interesses: poluição atmosférica (PM₂.₅/PM₁₀) · fogo e clima · reanálises meteorológicas ·
-análise espaço-temporal.
+análise espaço-temporal · pesquisa reprodutível.
 
 <br clear="right"/>
 
@@ -40,21 +40,29 @@ análise espaço-temporal.
 
 ### 🔗 Onde me encontrar
 
+**Acadêmico**
+
+<p align="left">
+  <a href="https://orcid.org/0009-0001-7228-7982" target="_blank"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Domingas-Almeida" target="_blank"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
+  <a href="http://lattes.cnpq.br/1278008553439861" target="_blank"><img src="https://img.shields.io/badge/-Currículo%20Lattes-00A98F?style=for-the-badge&logo=academia&logoColor=white"></a>
+</p>
+
+**Redes**
+
 <p align="left">
   <a href="https://www.linkedin.com/in/domingas-oliveira-40922320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/DomiOliveira" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/d.oliveiraa/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="http://lattes.cnpq.br/1278008553439861" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%2300A98F?style=for-the-badge&logo=academia&logoColor=white"></a>
   <a href="mailto:99domingas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-### 📊 GitHub
+### 🐍 Atividade de contribuições
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DomiOliveira&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800" alt="Estatísticas de GitHub da Domingas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomiOliveira&layout=compact&langs_count=8&hide_border=true&theme=radical&cache_seconds=1800" alt="Linguagens mais usadas" />
+  <img src="https://komarev.com/ghpvc/?username=DomiOliveira&label=Visitas%20no%20perfil&color=6e40c9&style=flat-square" alt="Contador de visitas no perfil" />
 </p>
 
 <p align="center">
