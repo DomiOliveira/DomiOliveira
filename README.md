@@ -10,7 +10,7 @@ Pesquisadora na interface entre **Ciência de Dados** e **Ciências Ambientais**
 qualidade do ar, fumaça de queimadas e dados de sensoriamento remoto na Amazônia.
 
 Interesses: poluição atmosférica (PM₂.₅/PM₁₀) · fogo e clima · reanálises meteorológicas ·
-análise espaço-temporal · pesquisa reprodutível.
+análise espaço-temporal.
 
 <br clear="right"/>
 
